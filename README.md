@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/
 
 Are they Aliens? Lets find out.
 
-### pandar is my long lost imaginary friend 
+### pandar is my long lost imaginary friend and my dad is a poop 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

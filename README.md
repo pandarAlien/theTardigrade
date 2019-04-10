@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/
 
 Are they Aliens? Lets find out.
 
-### pandar is my long lost imaginary friend and my dad is a poop 
+### difrent types of tardigrades  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ME 
+my dads poop
 
 ```markdown
 Syntax highlighted code block

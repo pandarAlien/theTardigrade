@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/
 Are they Aliens? Lets find out.
 
 ### Are they Aliens? Lets find out.  
- how come they can survive in space if "Ther not aillens"
+ how come they can survive in space if "They're not aliens"
+ 
 
 
 ```markdown

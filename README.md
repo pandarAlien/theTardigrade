@@ -11,11 +11,7 @@ Are they Aliens? Lets find out.
    they can survive the pretiers of 6,000 atmosphers 
  
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 

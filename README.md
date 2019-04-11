@@ -4,8 +4,11 @@ You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/
 
 Are they Aliens? Lets find out.
 
-### Are they Aliens? Lets find out.  
- how come they can survive in space if "They're not aliens"
+### there supper powers
+      there space powers:
+   they can strvive solar radiation 
+   they can survive space vacumes
+   they can survive the pretiers of 6,000 atmosphers 
  
 
 

@@ -2,9 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Are they Aliens? Lets find out.
-
-### there supper powers
+### there super powers
  ###     there space powers:
 ###   they can strvive solar radiation 
 ###   they can survive space vacumes

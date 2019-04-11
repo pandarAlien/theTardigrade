@@ -5,10 +5,10 @@ You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/
 Are they Aliens? Lets find out.
 
 ### there supper powers
-      there space powers:
-   they can strvive solar radiation 
-   they can survive space vacumes
-   they can survive the pretiers of 6,000 atmosphers 
+ ###     there space powers:
+###   they can strvive solar radiation 
+###   they can survive space vacumes
+ ###  they can survive the pretiers of 6,000 atmosphers 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

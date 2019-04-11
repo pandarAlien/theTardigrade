@@ -1,5 +1,8 @@
 ## My Awesome project on Tardigrades
 
+<img src="https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2017/t_1500047472941_name_Tthumb.jpg" alt="Image result for tardigrade"/>
+a tardigrade photo
+
 You can use the [editor on GitHub](https://github.com/pandarAlien/theTardigrade/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### there super powers
